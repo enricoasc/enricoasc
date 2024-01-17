@@ -12,9 +12,8 @@ Hello! 👋 My name is Enrico, an IT professional with a focus on software devel
 ## Programming Languages
 
 💻 **ADVPL:** Development for Totvs' Protheus ERP.  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" /> **Python:** Automation, data analysis, and web development.  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />**SQL:** Advanced queries and data modeling.
+🐍 **Python:** Automation, data analysis, and web development.  
+🔍 **SQL:** Advanced queries and data modeling.
 
 ## Tools
 
@@ -27,9 +26,14 @@ Hello! 👋 My name is Enrico, an IT professional with a focus on software devel
 🎨 **Figma:** Interface design and team collaboration.
 
 ## Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/enrico-augusto-42072618b/)
-[![E-mail](https://img.shields.io/badge/E-mail-Contact-red)](mailto:enricoasc@gmail.com)
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+</div>
 
 Feel free to get in touch for collaborations or discussions about technology! 😊✨
 
