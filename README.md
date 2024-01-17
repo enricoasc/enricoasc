@@ -12,8 +12,9 @@ Hello! 👋 My name is Enrico, an IT professional with a focus on software devel
 ## Programming Languages
 
 💻 **ADVPL:** Development for Totvs' Protheus ERP.  
-🐍 **Python:** Automation, data analysis, and web development.  
-🔍 **SQL:** Advanced queries and data modeling.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" /> **Python:** Automation, data analysis, and web development.  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />**SQL:** Advanced queries and data modeling.
 
 ## Tools
 
