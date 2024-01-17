@@ -28,7 +28,7 @@ Hello! 👋 My name is Enrico, an IT professional with a focus on software devel
 ## Contact
 
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/enrico-augusto-42072618b/)
-- **E-mail:** [![E-mail](https://img.shields.io/badge/E-mail-Contact-red)](mailto:enricoasc@gmail.com)
+- **E-mail:** [![Email](https://img.shields.io/badge/E-mail-Contact-red)](mailto:enricoasc@gmail.com)
 
 Feel free to get in touch for collaborations or discussions about technology! 😊✨
 
