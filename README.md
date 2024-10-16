@@ -4,7 +4,7 @@ Hello! 👋 My name is Enrico, an IT professional with a focus on software devel
 
 ## Professional Experience
 
-### 9 years at Rio Branco Energias
+### 10 years at Rio Branco Energias
 
 👔 **Current Position:** IT Coordinator  
 🚀 **Description:** I've worked for 9 years at Rio Branco Energias, where I took on various responsibilities and grew professionally. Currently, I serve as IT Coordinator, leading teams and contributing to the success of the Information Technology department.
